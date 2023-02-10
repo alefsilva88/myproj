@@ -1,4 +1,4 @@
 # myproj
 Este e o meu projeto de portfólio!
 
-ficou de mais!
+ele gera **10** números randomicos no console
